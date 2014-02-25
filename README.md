@@ -7,6 +7,6 @@ I did't have a Bloomberg Terminal account, so I searched online, and I found a B
 
 Where to get the emlator: http://bemu.codeplex.com/
 
-Documentation: http://www.openbloomberg.com/files/2012/10/blpapi-developers-guide.pdf
+API Documentation: http://www.openbloomberg.com/files/2012/10/blpapi-developers-guide.pdf
 
 If there's any problem with importing the project into the Android SDK: Click on the project -----> Alt + Enter ------> Go to Order and Export -----> Uncheck the 2 jar files.
